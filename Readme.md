@@ -30,6 +30,6 @@ To preview and interact with the form:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Job-application-form/)
 
 ## Master user interaction design with pseudo-classes and create elegant, accessible forms! 💼🖋️💡
